@@ -1,8 +1,5 @@
-import csv
 import sys
 import os
-import platform
-import psutil
 
 import colorama
 from colorama import Fore
