@@ -47,7 +47,7 @@ def menu():
 
     elif choice == "2":
         print('')
-        os.system('start https://github.com/NonoDiscord')
+        os.system('start https://github.com/NonoDiscord/liaisonsql')
         click = input('Cliquez sur entrée pour revenir au menu')
         os.system('{}' .format(click))
         os.system('cls')
