@@ -1,6 +1,4 @@
-from os import system
-
-print('LIAISON SQL.')
+print('\n\nLIAISON SQL.\n\n')
 
 serv = input('Host: ')
 database = input('Nom DB: ')
