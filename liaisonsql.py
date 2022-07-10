@@ -1,9 +1,7 @@
 import sys
 from os import system
 
-print('''
-LIAISON SQL.
-    ''')
+print('LIAISON SQL.')
 
 serv = input('Host: ')
 database = input('Nom DB: ')
